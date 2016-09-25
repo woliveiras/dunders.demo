@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/about/</loc>
+<loc>/dunders.demo/about/</loc>
 </url>
 <url>
-<loc>/archive/</loc>
+<loc>/dunders.demo/archive/</loc>
 </url>
 <url>
-<loc>/categories/</loc>
+<loc>/dunders.demo/categories/</loc>
 </url>
 <url>
-<loc>/contact/</loc>
+<loc>/dunders.demo/contact/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>/dunders.demo/</loc>
 </url>
 <url>
-<loc>/tags/</loc>
+<loc>/dunders.demo/tags/</loc>
 </url>
 </urlset>
