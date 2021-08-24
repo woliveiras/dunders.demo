@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
     "{assets,_includes,_layouts,_sass}/**/*"
   ]
 
-  spec.add_development_dependency "jekyll", "~> 3.2"
+  spec.add_development_dependency "jekyll", "~> 4.2"
   spec.add_development_dependency "bundler", "~> 1.12"
   spec.add_development_dependency "rake", "~> 10.0"
 end
